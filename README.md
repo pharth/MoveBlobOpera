@@ -1,4 +1,4 @@
-# MoveMusic
+# MoveBlobOpera
 
 This is a fun little project that lets you use your hand to control a webpage, and the star of the show is the Blob Opera. It's like magic, but with code!
 
