@@ -48,8 +48,7 @@ This project is all about having fun and experimenting with the Blob Opera. It's
 - OpenCV
 - MediaPipe
 - PyAutoGUI
-- Selenium
-- ChromeDriver
+- SeleniumWebDriver
 
 That's it! 
 
